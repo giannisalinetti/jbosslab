@@ -67,7 +67,7 @@
             <dependency>
                 <groupId>org.jboss.spec</groupId>
                 <artifactId>jboss-javaee-6.0</artifactId>
-                <version>${version.jboss.spec.javaee.6.0}</version>
+                <version>3.0.2.Final</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
